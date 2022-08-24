@@ -21,6 +21,11 @@ button{
     cursor: pointer;
     text-align: center;
 }
+footer{
+  text-align: center;
+  margin: 1rem;
+  padding: 0.5rem
+}
 
 .btn{
   background-color: transparent;
